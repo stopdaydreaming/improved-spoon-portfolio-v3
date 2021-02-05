@@ -29,7 +29,7 @@ This code should be used for the purpose of creating/editing code for a simple p
 ![portfolio](./assets/images/screenshot.png)
 
 ## View Website
-Click here to view the live website [VIEW SITE](#)
+Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.io/improved-spoon-portfolio-v3/)
 
 
 ## Credits
