@@ -25,7 +25,7 @@ This repository is the where I develop the code my portfolio website. The HTML i
 1. Click the "VIEW SITE" link at the bottom of this README
 
 ## Usage 
-This code should be used for the purpose of creating/editing code for a typical portfolio website.
+This code should be used for the purpose of creating/editing code for a simple portfolio website.
 ![portfolio](./assets/images/screenshot.png)
 
 ## View Website
@@ -33,11 +33,11 @@ Click here to view the live website [VIEW SITE](#)
 
 
 ## Credits
-1 contributor: @stopdaydreaming
+1 contributor: @stopdaydreaming  
 Photo(s) courtesty of Unsplash.
 
 ## License
-Copyright (c) Lisa Copeland. All rights reserved.
+Copyright (c) Lisa Copeland. All rights reserved.  
 Licensed under the [MIT](LICENSE) license.
 
 ## Features
