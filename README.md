@@ -34,6 +34,7 @@ Click here to view the live website [VIEW SITE](#)
 
 ## Credits
 1 contributor: @stopdaydreaming
+Photo(s) courtesty of Unsplash.
 
 ## License
 Copyright (c) Lisa Copeland. All rights reserved.

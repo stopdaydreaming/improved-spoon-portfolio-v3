@@ -1,25 +1,11 @@
 /* elements */
 body {
-    background:url('https://raw.githubusercontent.com/stopdaydreaming/super-duper-octo-portfolio/main/assets/images/ignasi_pattern_s.png');
-    /* background:url('../images/annie-spratt-VtAy7t8zPz4-unsplash.jpg'); */
+    background:url('../images/geometric-leaves.png')
 }
 header {
     padding: 2em;
-    /* background: url('../images/annie-spratt-VtAy7t8zPz4-unsplash.jpg'); */
-    background: red;
 }
-.header-bg {
-    /* background: url('../images/annie-spratt-VtAy7t8zPz4-unsplash.jpg'); */
-    background: red;
-}
-.bg-image-full {
-    background: url('../images/annie-spratt-VtAy7t8zPz4-unsplash.jpg');
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
+
 /* classes */
 .heading {
     font-size: 3.25rem;
@@ -35,8 +21,8 @@ header {
 .fa-icons {
     margin-right: 1em;
 }
-.text-info {
-    font-size: 5rem;
+.bg-img {
+    background: url('../images/kien-do-uUVkzxDR1D0-unsplash.jpg');
 }
 
 /* media queries */
