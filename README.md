@@ -1,7 +1,7 @@
 # Portfolio Version 03 🏆
 
 ## Description 
-This repository is the where I develop the code my portfolio website. The HTML is valid and semantic, which improves accessibility and makes it easier to read. The code also utilizes Bootstrap CSS Framework for mobile responsiveness. Also, the images have been optimized to increase page load time. This source code is available to everyone under the standard [MIT license](LICENSE).
+This repository is where I develop the code for my portfolio website. The HTML is valid and semantic, which improves accessibility and makes it easier to read. The code also utilizes Bootstrap CSS Framework for mobile responsiveness. Also, the images have been optimized to increase page load time. This source code is available to everyone under the standard [MIT license](LICENSE).
 
 
 ## Table of Contents
